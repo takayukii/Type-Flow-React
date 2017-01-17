@@ -1,4 +1,4 @@
-# Type-Flow-React
+# study-Type-Flow-React
 
 Comparison of simple React apps which implemented with ES6/Flow and TypeScript.
 
